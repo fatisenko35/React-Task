@@ -1,0 +1,3 @@
+export const VIEWS_COUNTER = "VIEWS_COUNTER";
+export const SET_POST_LIST = "SET_POST_LIST";
+export const SET_POST_DETAIL = "SET_POST_DETAIL"
